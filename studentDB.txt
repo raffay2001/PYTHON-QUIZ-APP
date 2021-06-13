@@ -1,0 +1,4 @@
+What is your name?, Raffay, Ali, Khan, 1, 2021-06-07, 
+What is your age?, 19, 20, 21, 1, 2021-06-07, 
+What is the Capital of Islamabad?, Karachi, Lahore, Punjab, 1, 2021-06-07, 
+What is the Capital of Saudia Arab?, Jeddah, Riyadh, Makkah, 1, 2021-06-07, 
